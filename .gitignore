@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+## OMETZ SPECIFIED FILES
+App_Data/
+*.rar
+published/
+
 # User-specific files
 *.rsuser
 *.suo
@@ -396,3 +401,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+OMutils/Resources/C__Users_ometz_Downloads_Telegram Desktop_AllPossibleHebrewNumbers.txt.bmp
